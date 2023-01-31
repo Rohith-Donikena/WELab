@@ -1,0 +1,25 @@
+.mid {
+    width: 20%;
+    background-color: #ef9be5;
+    margin-top: 60px;
+    margin-left: 600px;
+    padding-left:80px;
+    font-size: 20px;
+}
+.cnt {
+    width: 20%;
+    margin-top: 10px;
+    margin-left: 600px;
+    padding-left:80px;
+}
+h1{
+    padding-top: 20px;
+}
+
+input[type=text] ,input[type=password] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000ae;
+}
+
+
